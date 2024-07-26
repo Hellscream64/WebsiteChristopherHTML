@@ -1,0 +1,662 @@
+.dw-230818-session3-34-4-icon {
+  height: 909px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.nachhaltig-innovativ-und,
+.wir-machen-massivholzbau {
+  margin: 0;
+}
+.wir-machen-massivholzbau-container {
+  margin: 0 !important;
+  width: 1512px;
+  position: absolute;
+  bottom: 311px;
+  left: calc(50% - 756px);
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.dw-230818-session3-34-4-parent {
+  width: 1728px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.logo-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.logo-wrapper {
+  align-self: stretch;
+  width: 178px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.men {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  color: inherit;
+  z-index: 1;
+}
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 43px;
+  height: 4px;
+  z-index: 1;
+}
+.frame-item {
+  top: 11px;
+}
+.line-parent {
+  width: 39px;
+  height: 15px;
+  position: relative;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) 0 0;
+}
+.frame-parent,
+.men-parent,
+.startseite-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.men-parent {
+  width: 180px;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-parent,
+.startseite-inner {
+  max-width: 100%;
+}
+.frame-parent {
+  align-self: stretch;
+  width: 1601px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: right;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.startseite-inner {
+  height: 255px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-40xl) 197px;
+  box-sizing: border-box;
+}
+.tradition-trifft-moderne {
+  margin: 0;
+  width: 994px;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.tradition-trifft-moderne-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-405xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-serif);
+}
+.moin-wir1 {
+  line-height: 60px;
+}
+.moin-wir {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+}
+.sind-diestelmeier1 {
+  line-height: 60px;
+}
+.sind-diestelmeier {
+  margin: 0;
+}
+.und-witte1 {
+  line-height: 60px;
+}
+.und-witte {
+  margin: 0;
+}
+.blank-line {
+  margin: 0;
+  font-size: var(--font-size-26xl);
+  line-height: 50px;
+}
+.nachhaltig-innovativ-und1,
+.wir-machen-massivholzbau1 {
+  margin: 0;
+  line-height: 36px;
+  font-family: var(--font-pt-sans);
+}
+.moin-wir-sind-container {
+  height: 300px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.image-12-icon {
+  height: 384.8px;
+  width: 384.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: -216px;
+  left: -251px;
+  object-fit: contain;
+  z-index: 1;
+}
+.intro-paragraph {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.dank-einer-neuen,
+.gemeinsam-mit-euch,
+.profitieren-sie-von {
+  margin: 0;
+}
+.gemeinsam-mit-euch-container1 {
+  width: 100%;
+}
+.gemeinsam-mit-euch-container {
+  width: 612px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-pt-sans);
+  display: flex;
+  align-items: flex-end;
+  max-width: 100%;
+  z-index: 1;
+}
+.intro-description,
+.intro-paragraph-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.intro-paragraph-parent {
+  width: 1512px;
+  gap: 70.8px;
+  flex-shrink: 0;
+  max-width: 200%;
+}
+.intro-description {
+  width: 756px;
+  padding: 50px 0 0;
+  box-sizing: border-box;
+  min-width: 756px;
+  max-width: 100%;
+}
+.dw-230818-session3-11-1-icon {
+  width: 531px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.intro-content,
+.intro-description-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.intro-description-parent {
+  flex: 1;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.intro-content {
+  width: 1648px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-49xl);
+  box-sizing: border-box;
+}
+.frame-inner {
+  width: 1728px;
+  height: 954px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.bauweise-unserer-massivholzhu,
+.blank-line1,
+.blank-line2,
+.blank-line3,
+.die-grundlage-eines {
+  margin: 0;
+}
+.bauweise-unserer-massivholzhu-container {
+  height: 499px;
+  width: 609px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.bauweise-unserer-massivholzhu-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-448xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bauen-fr-ein,
+.leben,
+.nachhaltig,
+.nachhaltiges {
+  margin: 0;
+}
+.nachhaltig-bauen-fr-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 60px;
+  font-weight: 700;
+  font-family: var(--font-pt-serif);
+  z-index: 2;
+  margin: -497px 0 0;
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-darkslategray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-134xl) var(--padding-49xl) 302px var(--padding-129xl);
+  box-sizing: border-box;
+  min-height: 954px;
+  max-width: 100%;
+}
+.dw-230818-maschine-1 {
+  width: 1436px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.dw-230818-maschine-1-wrapper,
+.frame-group,
+.intro-content-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.dw-230818-maschine-1-wrapper {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  margin-top: -302px;
+}
+.frame-group,
+.intro-content-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.intro-content-parent {
+  align-items: flex-end;
+  gap: 102px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-pt-serif);
+}
+.rectangle-div {
+  height: 345px;
+  width: 1728px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+  max-width: 100%;
+}
+.footer-logo-icon {
+  width: 178px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  z-index: 1;
+}
+.footer-content {
+  height: 56px;
+  width: 345px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 1091px);
+}
+.diestelmeier-witte-massivholzb2 {
+  font-family: var(--font-pt-sans);
+}
+.diestelmeier-witte-massivholzb1,
+.graubergen-19,
+.hittfeld {
+  margin: 0;
+}
+.telefon-49-0 {
+  text-decoration: underline;
+}
+.telefon-49-0-4105-1540201 {
+  color: inherit;
+}
+.telefon-49-0-4105-154020 {
+  margin: 0;
+}
+.kontaktdiestelmeier-wittede2 {
+  text-decoration: underline;
+}
+.kontaktdiestelmeier-wittede1 {
+  color: inherit;
+}
+.kontaktdiestelmeier-wittede {
+  margin: 0;
+}
+.diestelmeier-witte-massivholzb {
+  height: 499px;
+  width: 609px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.datenschutz,
+.impressum {
+  margin: 0;
+}
+.impressum-datenschutz {
+  height: 499px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.vector-icon {
+  height: 47.8px;
+  width: 48px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 90px;
+  z-index: 3;
+}
+.footer-info,
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.footer-links {
+  width: 609px;
+  position: relative;
+  max-width: 100%;
+  margin-left: -105px;
+}
+.footer-info {
+  width: 1043px;
+  max-width: calc(100% - 393px);
+  row-gap: 20px;
+}
+.social-icons {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.rectangle-group,
+.startseite {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-group {
+  height: 345px;
+  background-color: var(--color-darkslategray-100);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-89xl) var(--padding-127xl) var(--padding-162xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.startseite {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-29xl) 0 0;
+  gap: var(--gap-102xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .dw-230818-session3-11-1-icon,
+  .intro-description {
+    flex: 1;
+  }
+  .intro-description-parent {
+    flex-wrap: wrap;
+  }
+  .footer-content {
+    max-width: calc(100% - 48px);
+  }
+  .footer-info {
+    display: none;
+    flex-wrap: wrap;
+  }
+  .rectangle-group {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .startseite-inner {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .intro-description {
+    min-width: 100%;
+  }
+  .intro-content {
+    padding-left: var(--padding-15xl);
+    padding-right: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .bauweise-unserer-massivholzhu-wrapper,
+  .rectangle-parent {
+    padding-left: var(--padding-214xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent {
+    padding-left: var(--padding-55xl);
+    padding-right: var(--padding-15xl);
+  }
+  .intro-content-parent {
+    gap: 51px;
+  }
+  .footer-links {
+    margin-left: 0;
+  }
+  .rectangle-group {
+    padding-left: var(--padding-54xl);
+    padding-right: var(--padding-54xl);
+    box-sizing: border-box;
+  }
+  .startseite {
+    gap: var(--gap-41xl);
+  }
+}
+@media screen and (max-width: 825px) {
+  .tradition-trifft-moderne {
+    font-size: var(--font-size-21xl);
+    line-height: 36px;
+  }
+  .tradition-trifft-moderne-wrapper {
+    padding-bottom: 276px;
+    box-sizing: border-box;
+  }
+  .intro-paragraph-parent {
+    gap: 35px;
+  }
+  .intro-description {
+    padding-top: 32px;
+    box-sizing: border-box;
+  }
+  .bauweise-unserer-massivholzhu-wrapper {
+    padding-left: var(--padding-97xl);
+    box-sizing: border-box;
+  }
+  .nachhaltig-bauen-fr-container {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .rectangle-parent {
+    padding-top: 99px;
+    padding-bottom: 196px;
+    box-sizing: border-box;
+  }
+  .rectangle-group {
+    padding-top: var(--padding-51xl);
+    padding-bottom: var(--padding-99xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .wir-machen-massivholzbau-container {
+    font-size: var(--font-size-3xl);
+    line-height: 29px;
+  }
+  .tradition-trifft-moderne {
+    font-size: var(--font-size-5xl);
+    line-height: 24px;
+  }
+  .moin-wir-sind-container {
+    font-size: var(--font-size-3xl);
+  }
+  .gemeinsam-mit-euch-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .intro-paragraph-parent {
+    gap: 18px;
+  }
+  .bauweise-unserer-massivholzhu-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .bauweise-unserer-massivholzhu-wrapper {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .nachhaltig-bauen-fr-container {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+  .rectangle-parent {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .intro-content-parent {
+    gap: var(--gap-6xl);
+  }
+  .diestelmeier-witte-massivholzb,
+  .impressum-datenschutz {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .rectangle-group {
+    padding: var(--padding-26xl) var(--padding-xl) var(--padding-58xl);
+    box-sizing: border-box;
+  }
+  .startseite {
+    gap: var(--gap-11xl);
+  }
+}

@@ -1,0 +1,723 @@
+.dw-230818-session3-34-4-icon1,
+.vector-icon1 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dw-230818-session3-34-4-icon1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+}
+.vector-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.vector-wrapper {
+  align-self: stretch;
+  width: 178px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.men1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  color: inherit;
+  z-index: 1;
+}
+.frame-child1,
+.line-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 43px;
+  height: 4px;
+  z-index: 1;
+}
+.frame-child1 {
+  top: 11px;
+}
+.line-group {
+  width: 39px;
+  height: 15px;
+  position: relative;
+}
+.menu-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) 0 0;
+}
+.frame-container,
+.men-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+}
+.men-group {
+  width: 180px;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  height: 58px;
+  justify-content: space-between;
+  text-align: right;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.mhm1 {
+  margin: 0;
+  width: 994px;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.heading-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.natrlich-bauen-mit {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  line-height: 36px;
+  font-weight: 400;
+  font-family: var(--font-pt-sans);
+  z-index: 1;
+}
+.frame,
+.heading-content,
+.heading-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-content {
+  width: 1512px;
+  flex-direction: column;
+  gap: var(--gap-23xl);
+}
+.frame,
+.heading-content-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-29xl) var(--padding-40xl) 347px var(--padding-49xl);
+  gap: 318px;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-serif);
+}
+.bauen-mit-einer,
+.bauen-mit-einer1,
+.blank-line4 {
+  margin: 0;
+}
+.bauen-mit-einer-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 30px;
+}
+.facade {
+  width: 612px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  min-width: 612px;
+  max-width: 100%;
+}
+.dw-230818-maschine-4-1-icon {
+  height: 483px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 416px;
+}
+.facade-parent {
+  position: absolute;
+  top: 1110px;
+  left: 154px;
+  width: 1404px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 152px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-pt-sans);
+}
+.massiv-holz-mauer {
+  margin: 0;
+  position: absolute;
+  top: 1096px;
+  left: 148px;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 1512px;
+  z-index: 1;
+}
+.frame-child2 {
+  height: 836px;
+  width: 1728px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+  max-width: 100%;
+}
+.bilanz,
+.positive-energie {
+  margin: 0;
+}
+.positive-energie-bilanz-container {
+  margin: 0;
+  width: 1512px;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 221%;
+  z-index: 1;
+}
+.first-benefit {
+  width: 685px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  min-width: 685px;
+  max-width: 100%;
+}
+.bauen-mit-einer2,
+.bauen-mit-einer3 {
+  margin: 0;
+}
+.bauen-mit-einer-container1 {
+  height: 499px;
+  width: 609px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-pt-sans);
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 609px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame1,
+.personal-child {
+  background-color: var(--color-darkslategray-100);
+  max-width: 100%;
+}
+.frame1 {
+  position: absolute;
+  top: 1810px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-134xl) var(--padding-49xl) 184px var(--padding-129xl);
+  box-sizing: border-box;
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-serif);
+}
+.personal-child {
+  height: 345px;
+  width: 1728px;
+  position: relative;
+  display: none;
+}
+.vector-icon2 {
+  width: 178px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  z-index: 1;
+}
+.company-info {
+  height: 56px;
+  width: 345px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 1091px);
+}
+.diestelmeier-witte-massivholzb5 {
+  font-family: var(--font-pt-sans);
+}
+.diestelmeier-witte-massivholzb4,
+.graubergen-191,
+.hittfeld1 {
+  margin: 0;
+}
+.telefon-49-01 {
+  text-decoration: underline;
+}
+.telefon-49-0-4105-1540203 {
+  color: inherit;
+}
+.telefon-49-0-4105-1540202 {
+  margin: 0;
+}
+.kontaktdiestelmeier-wittede5 {
+  text-decoration: underline;
+}
+.kontaktdiestelmeier-wittede4 {
+  color: inherit;
+}
+.kontaktdiestelmeier-wittede3 {
+  margin: 0;
+}
+.diestelmeier-witte-massivholzb3 {
+  height: 499px;
+  width: 609px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.datenschutz1,
+.impressum1 {
+  margin: 0;
+}
+.impressum-datenschutz1 {
+  height: 499px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.vector-icon3 {
+  height: 47.8px;
+  width: 48px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 90px;
+  z-index: 1;
+}
+.address,
+.legal {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.legal {
+  width: 609px;
+  position: relative;
+  max-width: 100%;
+  margin-left: -105px;
+}
+.address {
+  width: 1043px;
+  max-width: calc(100% - 393px);
+  row-gap: 20px;
+}
+.social-icons1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.personal {
+  position: absolute;
+  top: 3682px;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  height: 345px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-89xl) var(--padding-127xl) var(--padding-162xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-pt-sans);
+}
+.innenbeplankung {
+  width: 596px;
+  height: 436px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.image-4-1 {
+  position: absolute;
+  top: 34px;
+  left: 30px;
+  width: 554px;
+  height: 518px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 147.7px;
+  height: 147.7px;
+  object-fit: contain;
+  z-index: 2;
+}
+.frame-child3 {
+  top: 481px;
+  left: 517px;
+  width: 121.7px;
+  height: 95.6px;
+  z-index: 1;
+}
+.image-4-1-parent {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.description-columns,
+.interior {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.interior {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 12px var(--padding-129xl);
+  position: relative;
+  min-height: 584px;
+}
+.description-columns {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 11px 0 0;
+}
+.grundwand,
+.massiv-holz-mauer1 {
+  margin: 0;
+}
+.massiv-holz-mauer-grundwand {
+  height: 436px;
+  flex: 1;
+  position: relative;
+  line-height: 25px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.auenfassade,
+.inkl-dmmung {
+  margin: 0;
+}
+.auenfassade-inkl-dmmung-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 25px;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.company-info1,
+.feature-two,
+.features {
+  display: flex;
+  justify-content: flex-start;
+}
+.company-info1 {
+  width: 213px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21.3px 0 0;
+  box-sizing: border-box;
+  margin-left: -202px;
+}
+.feature-two,
+.features {
+  max-width: 100%;
+}
+.feature-two {
+  width: 627px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.features {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.4px;
+  min-width: 422px;
+}
+.blank-line5,
+.blank-line6,
+.den-grad-der,
+.die-auenwand-ist,
+.die-innenbeplankung-beeinfluss,
+.modern,
+.oberfchenformgebung-der-brett {
+  margin: 0;
+}
+.den-grad-der-container {
+  width: 596px;
+  position: relative;
+  line-height: 30px;
+  color: #212d24;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 596px;
+  max-width: 100%;
+}
+.building {
+  position: absolute;
+  top: 2818px;
+  left: 115px;
+  width: 1303px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 57px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-tomato);
+  font-family: var(--font-pt-sans);
+}
+.mhm {
+  width: 100%;
+  height: 4027px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-pt-serif);
+}
+@media screen and (max-width: 1575px) {
+  .bauen-mit-einer-container1,
+  .first-benefit {
+    flex: 1;
+  }
+  .frame1 {
+    flex-wrap: wrap;
+  }
+  .company-info {
+    max-width: calc(100% - 48px);
+  }
+  .address {
+    display: none;
+    flex-wrap: wrap;
+  }
+  .personal {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .frame {
+    gap: 159px;
+    padding-left: var(--padding-15xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .facade {
+    flex: 1;
+  }
+  .facade-parent {
+    flex-wrap: wrap;
+  }
+  .bauen-mit-einer-container1,
+  .first-benefit {
+    min-width: 100%;
+  }
+  .frame1 {
+    padding-left: var(--padding-55xl);
+    padding-right: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .legal {
+    margin-left: 0;
+  }
+  .personal {
+    padding-left: var(--padding-54xl);
+    padding-right: var(--padding-54xl);
+    box-sizing: border-box;
+  }
+  .den-grad-der-container,
+  .interior {
+    flex: 1;
+  }
+  .building {
+    flex-wrap: wrap;
+  }
+  .mhm {
+    height: auto;
+    min-height: 4027;
+  }
+}
+@media screen and (max-width: 825px) {
+  .mhm1 {
+    font-size: var(--font-size-21xl);
+    line-height: 36px;
+  }
+  .heading-content {
+    gap: var(--gap-2xl);
+  }
+  .facade {
+    min-width: 100%;
+  }
+  .massiv-holz-mauer,
+  .positive-energie-bilanz-container {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .frame1 {
+    padding-left: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .den-grad-der-container {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mhm1 {
+    font-size: var(--font-size-5xl);
+    line-height: 24px;
+  }
+  .natrlich-bauen-mit {
+    font-size: var(--font-size-3xl);
+    line-height: 29px;
+  }
+  .frame {
+    gap: 79px;
+  }
+  .bauen-mit-einer-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .dw-230818-maschine-4-1-icon {
+    min-width: 100%;
+  }
+  .massiv-holz-mauer,
+  .positive-energie-bilanz-container {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+  .bauen-mit-einer-container1,
+  .diestelmeier-witte-massivholzb3,
+  .impressum-datenschutz1 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .personal {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .innenbeplankung {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .auenfassade-inkl-dmmung-container,
+  .massiv-holz-mauer-grundwand {
+    font-size: var(--font-size-base);
+    line-height: 20px;
+  }
+  .features {
+    min-width: 100%;
+  }
+  .den-grad-der-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+}
